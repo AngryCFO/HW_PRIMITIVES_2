@@ -27,20 +27,12 @@ public class Case2 {
 }
 ```
 
-**Main.java**
-```java
-public class Main {
-  public static void main(String[] args) {
-    System.out.println("\nБонус за пополнение:");
-    Case2.main(args);
-  }
-}
-```
 
 **Результат**
-
+```
 Бонус за пополнение:
 Итоговый счёт: 1211
 Количество бонусных рублей: 11
+
 ```
-## Файлы с кодом можно посмотреть в [папке](https://github.com/AngryCFO/HW_PRIMITIVES/tree/main/src)
+## Файлы с кодом можно посмотреть в [папке](https://github.com/AngryCFO/HW_PRIMITIVES_2/tree/main/src)
